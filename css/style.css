@@ -26,3 +26,15 @@ body {
     url(../image/hero-img.png) no-repeat center/cover;
   overflow: hidden;
 }
+/* Navbar */
+.navbar-item ul li {
+  margin-right: 20px;
+}
+.navbar-item ul li a {
+  font-size: 1rem;
+  color: var(--white);
+}
+.navbar-item ul li a:hover {
+  color: rgb(236, 236, 236);
+}
+/** Header Section End */
