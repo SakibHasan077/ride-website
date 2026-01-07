@@ -52,3 +52,25 @@ body {
   color: rgb(236, 236, 236);
 }
 /** Header Section End */
+/** Media Query */
+@media (max-width: 1200px) {
+  /* Same Classes */
+  .primary-btn {
+    padding: 8px 30px;
+    font-size: 20px;
+  }
+}
+@media (max-width: 992px) {
+  /* Same Classes */
+  .primary-btn {
+    padding: 6px 25px;
+    font-size: 18px;
+  }
+}
+@media (max-width: 767px) {
+  /* Same Classes */
+  .primary-btn {
+    padding: 5px 22px;
+    font-size: 16px;
+  }
+}
