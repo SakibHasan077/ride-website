@@ -14,6 +14,20 @@ body {
   --white: #fff;
   --black: #000;
 }
+/** Same Classes */
+.primary-btn {
+  background-color: var(--primary-color);
+  color: var(--white);
+  font-weight: bold;
+  padding: 10px 40px;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+.primary-btn:hover {
+  background-color: #ca5537;
+  color: var(--white);
+}
+/*Main Style */
 /** Header Section Start */
 #header-section {
   height: 100vh;
