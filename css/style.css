@@ -9,3 +9,8 @@ html {
 body {
   font-family: "Poppins", sans-serif;
 }
+:root {
+  --primary-color: #e76f51;
+  --white: #fff;
+  --black: #000;
+}
