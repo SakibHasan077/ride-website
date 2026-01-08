@@ -51,6 +51,26 @@ body {
 .navbar-item ul li a:hover {
   color: rgb(236, 236, 236);
 }
+/* Hero Section */
+#hero {
+  height: 90%;
+}
+.hero-content {
+  margin-left: 100px;
+  height: 100%;
+}
+.hero-content h1 {
+  font-size: 65px;
+  font-weight: bolder;
+  margin-top: 60px;
+}
+.hero-content p {
+  margin-top: 50px;
+  line-height: 2;
+  margin-bottom: 40px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
 /** Header Section End */
 /** Media Query */
 @media (max-width: 1200px) {
