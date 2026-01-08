@@ -27,6 +27,13 @@ body {
   background-color: #ca5537;
   color: var(--white);
 }
+.sub-head {
+  text-align: center;
+}
+.sub-head h2 {
+  font-size: 48px;
+  font-weight: 600;
+}
 /*Main Style */
 /** Header Section Start */
 #header-section {
