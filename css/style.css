@@ -126,6 +126,9 @@ body {
     padding: 8px 30px;
     font-size: 20px;
   }
+  .sub-head h2 {
+    font-size: 44px;
+  }
   /* Hero */
   .hero-content h1 {
     font-size: 58px;
@@ -139,6 +142,9 @@ body {
   .primary-btn {
     padding: 6px 25px;
     font-size: 18px;
+  }
+  .sub-head h2 {
+    font-size: 38px;
   }
   .hero-content h1 {
     font-size: 50px;
@@ -160,6 +166,9 @@ body {
   .primary-btn {
     padding: 5px 22px;
     font-size: 16px;
+  }
+  .sub-head h2 {
+    font-size: 32px;
   }
   /* Hero  */
   .hero-content {
