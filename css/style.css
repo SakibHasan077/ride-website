@@ -150,6 +150,10 @@ body {
     margin-bottom: 30px;
     padding-right: 10px;
   }
+  /* Feature */
+  .feature-img .img-box img {
+    width: 200px;
+  }
 }
 @media (max-width: 767px) {
   /* Same Classes */
@@ -171,6 +175,10 @@ body {
     margin-top: 30px;
     line-height: 1.7;
     margin-bottom: 40px;
+  }
+  /* Feature  */
+  .feature-img .img-box {
+    margin-bottom: 50px;
   }
 }
 @media (max-width: 520px) {
