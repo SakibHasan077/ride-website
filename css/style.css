@@ -299,4 +299,8 @@ h6 {
     margin-bottom: 40px;
     padding-right: 20px;
   }
+  /* FAQ */
+  .faq-card .faq-card-img img {
+    width: 90%;
+  }
 }
